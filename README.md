@@ -1,3 +1,4 @@
+# pure-gulp-bootstrap3-starter
 # Starter template with Gulp, Bootstrap-sass 3.3.7, jquery 3.2.1, & FontAwesome 4.7.0, and jade page generator
 
 ## Pre-requisites
