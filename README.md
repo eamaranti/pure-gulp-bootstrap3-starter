@@ -10,7 +10,7 @@
 
 1. Clone this repo.
 2. cd into the root folder and run `npm install` to install all dependencies
-3. Run `gulp build` and it will pull in all and compile.
+3. Run `gulp build` and it will generate files and compile.
 4. Run `gulp serve` and enjoy.
 
 ## Develop
@@ -18,4 +18,4 @@
 - develop html into public folder
 - develop js into app.js file
 - develop sass into resources/style.scss
-`gulp page` to generate basic page 
+- use `gulp page` to generate basic page 
