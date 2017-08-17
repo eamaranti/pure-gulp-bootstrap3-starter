@@ -1,0 +1,10 @@
+// Add custom font
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,300);
+$font-family-base: 'Open Sans', sans-serif;
+
+// Import bootstrap and fontawesome
+@import "bootstrap-sass/assets/stylesheets/_bootstrap.scss";
+@import "font-awesome/scss/font-awesome.scss";
+// Import custom styles
+@import "variables-custom";
+@import "custom";
